@@ -1,0 +1,7 @@
+*.mp4
+*.xlsx
+*.jpg
+*.csv
+Output/
+WebScrape/
+__pycache__/
