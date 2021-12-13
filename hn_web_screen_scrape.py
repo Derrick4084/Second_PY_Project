@@ -36,9 +36,9 @@ content += "<br><br>End of Message"
 
 SERVER = "smtp.gmail.com"
 PORT = 587
-FROM = "derrickh4084@gmail.com"
-TO = "derrickh4084@gmail.com"
-PASSWORD = "Grumman@180"
+FROM = "******@gmail.com"
+TO = "*******@gmail.com"
+PASSWORD = "*******"
 
 msg = MIMEMultipart()
 

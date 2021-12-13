@@ -2,6 +2,7 @@
 *.xlsx
 *.jpg
 *.csv
+*.png
 Output/
 WebScrape/
 __pycache__/
